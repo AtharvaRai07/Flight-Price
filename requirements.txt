@@ -4,6 +4,7 @@ numpy
 pymongo
 setuptools
 certifi
+pymongo
 pymongo[srv]
 scikit-learn
 mlflow
@@ -12,6 +13,7 @@ dagshub
 fastapi
 uvicorn
 python-multipart
-
+seaborn
+openpyxl
 
 ## -e .

@@ -1,5 +1,5 @@
 import sys
-from networksecurity.logging import logger
+from flightprice.logging import logger
 
 class FlightException(Exception):
     """Base exception class for the Flight application."""
