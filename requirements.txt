@@ -9,6 +9,7 @@ pymongo[srv]
 scikit-learn
 mlflow
 pyaml
+dill
 dagshub
 fastapi
 uvicorn

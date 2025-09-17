@@ -1,0 +1,13 @@
+columns:
+  Airline: string
+  Source: string
+  Destination: string
+  Total_Stops: integer
+  Price: float
+  Date: integer
+  Month: integer
+  Year: integer
+  Arrival_Hour: integer
+  Arrival_Minute: integer
+  Departure_Hour: integer
+  Departure_Minute: integer
