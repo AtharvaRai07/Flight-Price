@@ -123,6 +123,11 @@ class ModelTrainerConfig:
             training_pipeline.MODEL_FILE_NAME
         )
 
+        self.model_report_file_path: str = os.path.join(
+            self.model_trainer_dir,
+            training_pipeline.MODEL_TRAINER_MODEL_REPORT_NAME
+        )
+
         self.expected_score: float = training_pipeline.MODEL_TRAINER_EXPECTED_SCORE
         self.overfitting_underfitting_threshold: float = training_pipeline.MODEL_TRAINER_OVERFITTING_UNDERFITTING_THRESHOLD
 

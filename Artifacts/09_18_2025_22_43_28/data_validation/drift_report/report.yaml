@@ -1,0 +1,27 @@
+Arrival_Hour:
+  drift_status: false
+  p_value: 0.890671778838061
+Arrival_Minute:
+  drift_status: false
+  p_value: 0.9676927873043881
+Date:
+  drift_status: false
+  p_value: 0.07672371081357829
+Departure_Hour:
+  drift_status: false
+  p_value: 0.7873333082079148
+Departure_Minute:
+  drift_status: false
+  p_value: 0.9879899248268462
+Month:
+  drift_status: false
+  p_value: 0.9999890740969036
+Price:
+  drift_status: false
+  p_value: 0.7717483142177626
+Total_Stops:
+  drift_status: false
+  p_value: 1.0
+Year:
+  drift_status: false
+  p_value: 1.0
