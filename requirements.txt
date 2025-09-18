@@ -16,5 +16,9 @@ uvicorn
 python-multipart
 seaborn
 openpyxl
+catboost
+xgboost
+lightgbm
+h2o
 
 ## -e .
